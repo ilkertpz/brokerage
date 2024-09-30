@@ -26,7 +26,7 @@ In this project the Technologies were used which is listed below;
 
 RUNNING THE PROJECT
 -----------------------------
-Clone the project from this github link: https://github.com/ilkertpz/readingisgood.git
+Clone the project from this github link: https://github.com/ilkertpz/brokerage.git
 
 • After clone the project, **run mvn clean install** command
 
