@@ -46,6 +46,8 @@ Clone the project from this github link: https://github.com/ilkertpz/brokerage.g
 
 • For the customer role, you can use these credentials: username: **customer** password: **customer**
 
+NOTE: Basic authentication process has been implemented. JWT would be much more suitable implementation for authentication and authorization but in limited time basic authentication prefered for now
+
 
 
 
