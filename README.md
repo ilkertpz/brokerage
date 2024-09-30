@@ -20,7 +20,7 @@ In this project the Technologies were used which is listed below;
 
 • Jakarta Controller Validations
 
-• Mockito for unit and integration testing
+• Mockito
 
 • Restful endpoints
 
