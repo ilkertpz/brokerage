@@ -1,0 +1,1 @@
+INSERT INTO customer (id, name, surname, password, usable_balance) VALUES (1, 'customer', 'customer', 'customer', 120);
